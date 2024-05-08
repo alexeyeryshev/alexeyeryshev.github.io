@@ -3,12 +3,23 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Alexey Eryshev's Portfolio</title>
+<title>Alexey Eryshev</title>
 <style>
   body {font-family: Arial, sans-serif; line-height: 1.6; color: #333; padding: 20px; max-width: 800px; margin: auto;}
-  header {text-align: center; margin-bottom: 20px;}
-  section {margin-bottom: 20px;}
-  footer {text-align: center; color: #888; margin-top: 20px;}
+  header, section, footer {text-align: center; margin-bottom: 20px;}
+  footer {color: #888; margin-top: 20px;}
+  ul {text-align: left; padding: 0;}
+  li {list-style: none; margin-bottom: 10px;}
+  .card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: transform 0.2s;
+  }
+  .card:hover {
+    transform: scale(1.05);
+  }
 </style>
 </head>
 <body>
@@ -17,10 +28,21 @@
 </header>
 <section>
   <ul>
-    <li>🧑‍💼 I'm a Full Stack developer at Airbnb.</li>
+    <li>🧑‍💼 I'm a full stack developer at Airbnb.</li>
     <li>🔭 My experience focuses on developing and managing distributed web and data applications. Leading teams of developers and project management are other areas that I enjoy working on.</li>
     <li>🏠 In my free time, you can find me playing video games, running or climbing.</li>
     <li>📨 You can reach out to me on <a href="https://www.linkedin.com/in/alexeyeryshev/">Linkedin</a>.</li>
+  </ul>
+</section>
+<section>
+  <h2>My Projects</h2>
+  <ul>
+    <li class="card">
+      <a href="https://eryshev.gitlab.io/cryptocurrencies.monitoring.with.prometheus/">Monitoring your cryptocurrencies with Prometheus</a> - An introduction to Grafana and Prometheus for a homemade crypto price monitoring system. I made this to support my talk at SunnyTech 2018.
+    </li>
+    <li class="card">
+      <a href="https://github.com/alexeyeryshev/dotfiles">dotfiles</a> - a never-ending story of personal laptop configuration and trying to make in movable from one laptop to another.
+    </li>
   </ul>
 </section>
 <footer>
