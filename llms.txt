@@ -1,0 +1,23 @@
+# Alexey Eryshev
+
+> Alexey Eryshev is the founder of Munito AI (https://munito.ai), backed by Y Combinator: an open-model inference provider for Europe, private by default. Before Munito he led inference at Mistral AI, and worked at Airbnb and Meta.
+
+- Munito AI serves open models from Europe behind OpenAI- and Anthropic-compatible APIs, with zero data retention by default and no training on customer data.
+- He believes that open and independent intelligence, both models and inference, is key to economic growth and prosperity.
+- Contact: X https://x.com/alexeyeryshev, LinkedIn https://www.linkedin.com/in/alexeyeryshev/. Code: https://github.com/alexeyeryshev.
+
+## Writing
+
+- [How I'm building a self-running company in 2026](https://x.com/alexeyeryshev/status/2121136018372043074) (2026-11-13)
+- [CADA draft report: procurement beats capacity](https://x.com/alexeyeryshev/status/2120796249867907564) (2026-11-12)
+- [Open weights: a 4-month median gap, at a fraction of the cost](https://x.com/alexeyeryshev/status/2115903587637416134) (2026-10-29)
+- [Deplatformization: AI is freeing games from their platforms](https://x.com/alexeyeryshev/status/2114473626254836179) (2026-10-25)
+
+## Projects
+
+- [Munito AI](https://munito.ai): open models, run in Europe, behind an API you already know how to use.
+- [Scriptscore.AI](https://github.com/alexeyeryshev/scriptscore.ai): LLMs that simulate audience groups to predict the success of a show or a movie.
+- [YC ideas validator](https://github.com/alexeyeryshev/yc-idea-validator): Idea Validator on the YC winter 2024 batch, with the top 10 ideas.
+- [How to relocate to France](https://howtorelocatetofrance.notion.site/): resources for people displaced by the war in Ukraine.
+- [Monitoring your cryptocurrencies with Prometheus](https://eryshev.gitlab.io/cryptocurrencies.monitoring.with.prometheus/): a talk at SunnyTech 2018.
+- [dotfiles](https://github.com/alexeyeryshev/dotfiles): personal laptop configuration.
